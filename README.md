@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **React Native, Nextjs, Redux**
+- 🌱 I’m currently learning **Nuxtjs, VueJS, Gemini / AI**
 
 - 👨‍💻 All of my projects are available at [tyronhayman.me](tyronhayman.me)
 
