@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tyron</h1>
 <h3 align="center">A frontend developer that is passionate about user experience and simplicity.</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Getting A Full Time Roll**
 
-- 🌱 I’m currently learning **Nuxt, VueJS, Gemini / AI**
+- 🌱 I’m currently learning **Gemini / AI**
 
 - 👨‍💻 All of my projects are available at [tyronhayman.me](tyronhayman.me)
 
-- 💬 Ask me about **Anything related to tech**
+- 💬 Ask me about **Anything**
 
 - 📄 Know about my experiences [http://linkedin.com/in/tyronhayman](http://linkedin.com/in/tyronhayman)
 
