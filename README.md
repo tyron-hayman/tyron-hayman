@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyron</h1>
 <h3 align="center">A frontend developer that is passionate about user experience and simplicity.</h3>
 
-- 🔭 I’m currently working on **Getting A Full Time Role**
-
-- 🌱 I’m currently learning **Gemini / AI**
+- 🔭 I’m currently working on apps that take advantage of LLM's using Typescript and ReactJS.
 
 - 👨‍💻 All of my projects are available at [tyronhayman.me](tyronhayman.me)
 
